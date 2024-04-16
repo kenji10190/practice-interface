@@ -2,6 +2,7 @@
 
 Nodeというクラスを使用して、LinkedList形式にStackInt、QueueInt、DequeIntの3つのリストを実装しています。
 それぞれのリストはインターフェースと抽象メソッドを活用して、柔軟かつ効率的に実装しています。
+メインファイルはApp.javaになります。
 
 ・StackInt: 後入れ先出し（LIFO）方式で要素を管理します。  
 ・QueueInt: 先入れ先出し（FIFO）方式で要素を管理します。  
